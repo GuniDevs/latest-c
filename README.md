@@ -9,3 +9,7 @@ cmake --build build
 ctest --test-dir build --output-on-failure
 ./build/task_app
 ```
+
+## Checks
+
+Pull requests on this repo are built and scanned by InfraOps.
